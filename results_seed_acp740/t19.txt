@@ -1,0 +1,6 @@
+Average MCC: 0.7343102852351145
+Average Accuracy: 0.8666666507720947
+Average Recall/Sensitivity: 0.8718242168426513
+Average Specificity: 0.8632998108863831
+Average Precision: 0.8696447253227234
+Average F1 Score: 0.8690792006422084

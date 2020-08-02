@@ -1,0 +1,6 @@
+MCC: 0.6643638388299198
+Accuracy: 0.800000011920929
+Recall/Sensitivity: 0.6896551847457886
+Specificity: 1.0
+Precision: 1.0
+F1 Score: 0.8163265392513187
